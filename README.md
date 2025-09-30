@@ -42,10 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Daviiiiiddddd/Daviiiiiddddd/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="200" src="https://github.com/Daviiiiiddddd/my-gallery/blob/main/a12fa073-57ca-47a9-be07-7865f3867ac1.jpg?raw=tru"  />
 </div>
